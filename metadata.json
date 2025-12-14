@@ -1,0 +1,5 @@
+{
+  "name": "BioGen 3º ESO - Generador de Tests",
+  "description": "Un asistente educativo impulsado por IA para generar y practicar tests de 100 preguntas sobre Alimentación y Biología para estudiantes de 3º de la ESO.",
+  "requestFramePermissions": []
+}
